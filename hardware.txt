@@ -1,0 +1,10 @@
+Hardware
+
+    Parallax Boe-Bot
+    ServoPal, automatically refreshes servo pulses so you don't have to... [pin 12]
+    2 x Servo Motors [servopal]
+    Compass [pins 5, 6 and 7]
+    LCD Display [pin 11]
+    Ping Sensor [pin 15]
+    Ping Direction Servo [pins 14]
+    Piezo Speaker [pin 4]
